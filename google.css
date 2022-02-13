@@ -1,0 +1,41 @@
+img.barra{
+    max-width: 50%;
+    min-height: 50%;
+}
+.barra{
+    height: 100px;
+    width: 100px;
+}
+
+.google {
+display: block;
+margin: auto;
+width: 400px;
+height: 200px;
+}
+.padre{
+    text-align: center;
+}
+.search
+{
+    display:block;
+    align-items:center;
+    justify-content:center;
+    margin:30px;
+    width:auto;
+    height: auto;
+}
+.botones{
+    display: inline-block;
+    margin: auto;
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+}
+.español
+{
+display: flex;
+align-items: center;
+align-content: center;
+justify-content: center;
+}
